@@ -1,11 +1,11 @@
 # Line Following Lego Robot
 
-## Description of the project
+## Description of Project
 Line Following Lego Robot using PID Controller
 
 Line following is the the most useful applications for robots, because it allows the robot to move from one point to another to do several tasks without any assistance.
 
-## Description of the work process (what problems do you have and how you solved them)
+## Description of the Work Process
 
 Problems I faced 
 - How to connect the lego components and what would be the size of it.
